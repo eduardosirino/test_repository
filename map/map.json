@@ -138,6 +138,12 @@
          "id":20,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"map_comodos.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
