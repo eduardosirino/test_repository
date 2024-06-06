@@ -142,7 +142,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map_comodos.json#entryToMap"
+                 "value":"map_comodos.json"
                 }],
          "type":"tilelayer",
          "visible":true,
